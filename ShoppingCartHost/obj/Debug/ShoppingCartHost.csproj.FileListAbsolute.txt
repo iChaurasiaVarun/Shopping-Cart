@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\obj\Debug\ShoppingCartHost.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\bin\Debug\Discounts.json
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\bin\Debug\ShoppingCartHost.exe.config
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\bin\Debug\ShoppingCartHost.exe
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\bin\Debug\ShoppingCartHost.pdb
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\bin\Debug\ShoppingCart.dll
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\bin\Debug\ShoppingCart.pdb
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\obj\Debug\ShoppingCartHost.csprojAssemblyReference.cache
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\obj\Debug\ShoppingCartHost.csproj.CopyComplete
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\obj\Debug\ShoppingCartHost.exe
+C:\Users\varun\source\repos\ShoppingCart\ShoppingCartHost\obj\Debug\ShoppingCartHost.pdb

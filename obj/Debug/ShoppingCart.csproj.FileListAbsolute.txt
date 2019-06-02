@@ -1,0 +1,9 @@
+C:\Users\varun\source\repos\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ShoppingCart\bin\Debug\ShoppingCart.dll
+C:\Users\varun\source\repos\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\varun\source\repos\ShoppingCart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\varun\source\repos\ShoppingCart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\varun\source\repos\ShoppingCart\obj\Debug\ShoppingCart.csproj.CopyComplete
+C:\Users\varun\source\repos\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\varun\source\repos\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\varun\source\repos\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache

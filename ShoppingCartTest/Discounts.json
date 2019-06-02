@@ -1,0 +1,38 @@
+[
+  {
+    "DiscountId": 1,
+    "DiscountName": "Buy 2 Get 1",
+    "Discount": 33.33,
+    "Validation": {
+      "MinCartValue": 200,
+      "MinCartItem": 3
+    }
+  },
+  {
+    "DiscountId": 2,
+    "DiscountName": "30% Off",
+    "Discount": 30,
+    "Validation": {
+      "MinCartValue": 500,
+      "MinCartItem": 1
+    }
+  },
+  {
+    "DiscountId": 3,
+    "DiscountName": "Buy 1 Get 1",
+    "Discount": 50,
+    "Validation": {
+      "MinCartValue": 200,
+      "MinCartItem": 2
+    }
+  },
+  {
+    "DiscountId": 4,
+    "DiscountName": "Buy 2 Get 2",
+    "Discount": 50,
+    "Validation": {
+      "MinCartValue": 200,
+      "MinCartItem": 4
+    }
+  }
+]
